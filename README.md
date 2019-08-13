@@ -1,5 +1,5 @@
 # Action Recognition using Pyramid Decomposition of Motion Information
-This Repository is Implementation Code of Proposed Method in [Action Recognition using Pyramid Decomposition of Motion Information Paper](https://ieeexplore.ieee.org/document/8786379).
+This Repository is Implementation Code of Proposed Method in [Action Recognition using Pyramid Decomposition of Motion Information Paper](https://ieeexplore.ieee.org/document/8786379). Please Cite This Paper When Using This Information.
 
 ## Abstract
 In this paper, a temporal representation method for video action recognition is proposed. Since the intrinsic property of the video signal is its temporal variation, the optical flow image is calculated to show short-term motion. In order to present a low complexity action recognition method, pre-trained large-scale image datasets networks are utilized for feature extraction. For video level representation pyramid pooling time series is considered since the short-term variation can be captured and form the fixed-size long-term features. In addition, to solve the information missing problem through long videos, a simple video level representation using temporal partitioning are proposed too. The experimental results of the proposed methods illustrate an acceptable performance both in first and third-person action recognition.
